@@ -23,3 +23,30 @@
 
 8. **What is the difference between HTML and HTML5?**
    - HTML5 is the latest version of HTML, and it introduces new elements, attributes, and APIs for building modern web applications.
+   - 
+
+### HTML Elements and Attributes:
+
+9. **What is an HTML element?**
+   - An HTML element is a complete set of tags and content that defines a specific part of a web page.
+
+10. **Explain the difference between block-level and inline elements.**
+    - Block-level elements start on a new line and take up the full width, while inline elements do not start on a new line and only take up as much width as necessary.
+
+11. **What is the role of the <div> tag?**
+    - The `<div>` tag is a block-level container used to group other HTML elements and apply styles or scripts to them collectively.
+
+12. **How do you create a hyperlink in HTML?**
+    - The `<a>` (anchor) tag is used to create hyperlinks. The `href` attribute specifies the URL of the linked resource.
+
+13. **Explain the difference between <span> and <div>.**
+    - `<span>` is an inline container, and `<div>` is a block-level container. `<span>` is typically used for small inline styling, while `<div>` is used for larger block-level grouping.
+
+14. **What is the purpose of the <head> and <body> tags?**
+    - The `<head>` tag contains meta-information about the HTML document, and the `<body>` tag contains the content that is visible on the web page.
+
+15. **How can you create a line break in HTML?**
+    - The `<br>` tag is used to create a line break, forcing the content that follows it to appear on a new line.
+
+16. **What is the difference between <strong> and <b>, <em> and <i>?**
+    - `<strong>` and `<em>` are semantic tags, indicating strong importance and emphasized text, respectively. `<b>` and `<i>` are presentational tags for bold and italic styling.
