@@ -50,3 +50,26 @@
 
 16. **What is the difference between <strong> and <b>, <em> and <i>?**
     - `<strong>` and `<em>` are semantic tags, indicating strong importance and emphasized text, respectively. `<b>` and `<i>` are presentational tags for bold and italic styling.
+   
+### HTML Forms:
+
+17. **How do you create a form in HTML?**
+    - The `<form>` tag is used to create an HTML form. It can contain various input elements, buttons, and other form elements.
+
+18. **Explain the purpose of the <input> element.**
+    - The `<input>` element is used to create various types of form controls, such as text fields, checkboxes, radio buttons, and buttons.
+
+19. **What is the difference between GET and POST methods in a form?**
+GET requests are only used to request data (not modify), POST requests can be used to create and modify data.POST is more secure for sensitive data.
+
+20. **How can you disable a form element in HTML?**
+    - The `disabled` attribute can be added to form elements (e.g., `<input>`, `<button>`) to make them unselectable or unclickable.
+
+21. **Explain the purpose of the <label> element in a form.**
+    - The `<label>` element is used to associate a text label with a form control, improving accessibility and user experience.
+
+22. **What is the role of the <select> and <option> elements in HTML forms?**
+    - `<select>` creates a dropdown list, and `<option>` defines individual options within the list.
+
+23. **How can you upload files in a form using HTML?**
+    - The `<input type="file">` element is used to create a file input field, allowing users to select and upload files.
