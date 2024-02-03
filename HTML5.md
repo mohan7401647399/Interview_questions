@@ -73,3 +73,20 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 23. **How can you upload files in a form using HTML?**
     - The `<input type="file">` element is used to create a file input field, allowing users to select and upload files.
+
+### HTML5 Features:
+
+24. **What are the new semantic elements introduced in HTML5?**
+    - HTML5 introduces semantic elements like `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, and `<aside>` for better document structure.
+
+25. **Explain the <canvas> element in HTML5.**
+    - `<canvas>` is used to draw graphics, animations, and interactive content using JavaScript. It provides a 2D drawing context.
+
+26. **How does the <audio> element work in HTML5?**
+    - The `<audio>` element embeds audio content in a web page. It supports various audio formats and provides controls for playback.
+
+27. **What is the purpose of the <video> element in HTML5?**
+    - The `<video>` element is used to embed video content. It supports different video formats and allows controls for playback.
+
+28. **Explain the use of the <article> and <section> elements.**
+    - `<article>` is used for independent, self-contained content, while `<section>` is used for grouping related content within a document.
