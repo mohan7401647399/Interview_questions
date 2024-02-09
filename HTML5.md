@@ -90,3 +90,17 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 28. **Explain the use of the <article> and <section> elements.**
     - `<article>` is used for independent, self-contained content, while `<section>` is used for grouping related content within a document.
+
+### Multimedia and Embedding:
+
+29. **How do you embed an image in HTML?**
+    - The `<img>` tag is used to embed images. The `src` attribute specifies the image URL.
+
+30. **What is the purpose of the <iframe> element?**
+    - `<iframe>` is used to embed content from another source, such as a webpage or a video, within the current document.
+
+31. **How can you embed a YouTube video in HTML?**
+    - YouTube provides an embed code for videos. Copy the code and paste it into your HTML document to embed the video.
+
+32. **Explain the use of the <figure> and <figcaption> elements.**
+    - `<figure>` is used to encapsulate media content, and `<figcaption>` provides a caption or description for the content.
