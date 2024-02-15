@@ -104,3 +104,23 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 32. **Explain the use of the <figure> and <figcaption> elements.**
     - `<figure>` is used to encapsulate media content, and `<figcaption>` provides a caption or description for the content.
+
+### Document Structure and Semantics:
+
+33. **What is the purpose of the <header> and <footer> elements?**
+    - `<header>` represents introductory content or a group of navigational links, while `<footer>` contains metadata or the footer of a section or page.
+
+34. **How do you create an ordered list in HTML?**
+    - The `<ol>` tag is used to create an ordered list, and `<li>` represents each list item.
+
+35. **Explain the purpose of the <nav> element.**
+    - `<nav>` is used to define a set of navigation links, providing a semantic way to structure navigation menus.
+
+36. **What is the role of the <main> element in HTML5?**
+    - `<main>` represents the main content of the document, excluding headers, footers, and sidebars.
+
+37. **How can you create a comment in HTML?**
+    - Use `<!-- your comment here -->` to add comments in HTML, which are not displayed in the browser.
+
+38. **What is the significance of the <aside> element?**
+    - `<aside>` is used for content related to the main content but can be considered separate, such as sidebars or pull quotes.
