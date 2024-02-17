@@ -124,3 +124,14 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 38. **What is the significance of the <aside> element?**
     - `<aside>` is used for content related to the main content but can be considered separate, such as sidebars or pull quotes.
+
+### Accessibility in HTML:
+
+39. **How can you make a website accessible to people with disabilities?**
+    - Use semantic HTML, provide alternative text for images, use ARIA roles, ensure keyboard accessibility, and maintain a readable and flexible layout.
+
+40. **Explain the importance of headings (<h1> to <h6>) in HTML.**
+    - Headings structure the content and provide a hierarchical outline. They are crucial for accessibility and SEO.
+
+41. **What is the purpose of the aria-label attribute?**
+    - `aria-label` provides a text label for screen readers, helping to make non-text content accessible.
