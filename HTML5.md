@@ -135,3 +135,14 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 41. **What is the purpose of the aria-label attribute?**
     - `aria-label` provides a text label for screen readers, helping to make non-text content accessible.
+
+### HTML Validation and Debugging:
+
+42. **How can you validate an HTML document?**
+    - Online validators or integrated development environments (IDEs) can be used to check HTML documents for syntax errors and compliance.
+
+43. **What is the purpose of the HTML lang attribute?**
+    - The `lang` attribute specifies the language of the document, aiding accessibility and search engine optimization.
+
+44. **How do you debug HTML and CSS code?**
+    - Use browser developer tools, validate your code, check for syntax errors, and use console.log for JavaScript debugging.
