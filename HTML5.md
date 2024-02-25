@@ -146,3 +146,14 @@ GET requests are only used to request data (not modify), POST requests can be us
 
 44. **How do you debug HTML and CSS code?**
     - Use browser developer tools, validate your code, check for syntax errors, and use console.log for JavaScript debugging.
+
+### HTML Best Practices:
+
+45. **Why is it important to use semantic HTML?**
+    - Semantic HTML enhances accessibility, SEO, and the overall understanding of the document structure.
+
+46. **How can you improve the performance of a web page with HTML?**
+    - Minimize the use of unnecessary tags, optimize images, use CSS and JavaScript efficiently, and implement browser caching.
+
+47. **What are data attributes in HTML, and how are they used?**
+    - Data attributes, prefixed with `data-`, store custom data private to the page or application and can be accessed via JavaScript.
